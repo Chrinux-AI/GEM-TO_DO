@@ -1,0 +1,5 @@
+{
+  "name": "365-Day Tech & Security Challenge",
+  "description": "An interactive web application to track your progress through a year-long daily learning plan covering logic, web development, cybersecurity, command line, debugging, and networking.",
+  "requestFramePermissions": []
+}
